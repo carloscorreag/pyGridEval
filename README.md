@@ -19,7 +19,7 @@ pip install tkinter netCDF4 pandas numpy seaborn matplotlib scipy cartopy pyproj
 Or with Conda:
 
 ```bash
-conda create -n grid_evaluator tk netCDF4 pandas numpy seaborn matplotlib scipy
+conda create -n grid_evaluator tk netCDF4 pandas numpy seaborn matplotlib scipy cartopy pyproj
 ```
 
 > Note: In Conda, `tkinter` is called `tk`.
