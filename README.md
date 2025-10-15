@@ -48,6 +48,15 @@ python3 pyGridEval_gui.py
 
 ---
 
+## Supported Grids
+
+The program currently supports the following climate grids:
+
+WRF, ISIMIP-CHELSA, CHIRTS, CHIRPS, ERA5, ERA5-Land, COSMO-REA6, CERRA, CERRA_LAND, EOBS, EOBS_HR, EOBS_LR, CLARA-A3
+
+> Note: To evaluate additional grids or modify the list of grids, you will need to update the grids list in the script pyGridEval_gui.py.
+
+
 ## Input Files
 
 ### 1️⃣ NetCDF Grid Files
