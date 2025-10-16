@@ -131,4 +131,9 @@ For questions or support, please contact: **[ccorreag@aemet.es](mailto:ccorreag@
 
 ---
 
+## 📖 Citation
+
+Correa, C. (2025). **pyGridEval**: A Python tool to calculate difference metrics and generate comparison plots between climate grid data and observational station data. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17366241.svg)](https://doi.org/10.5281/zenodo.17366241)
+
+You can cite all versions by using the DOI: [10.5281/zenodo.17366240](https://doi.org/10.5281/zenodo.17366240)
 
